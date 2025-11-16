@@ -1,0 +1,4 @@
+animations
+just some clearnup
+
+make a versus mode where people can either duel to go against eachother in a round, or one person is randomly selected to be the "Timer" and the other is selected to be the player. Make it have a ranked type style.
